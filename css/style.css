@@ -1,0 +1,296 @@
+header{
+margin-left:5%;
+margin-right:5%;
+min-width:1150px;
+background: url(../images/light-wood-floor.jpg) no-repeat fixed;
+background-size: 100%;
+text-align: center;
+padding:25px;
+background-color: #ffffff;
+opacity: 0.6;
+}
+
+h1{
+font-family: Palatino Linotype;
+letter-spacing: 4px;
+font-weight: 100;
+text-align: center;
+text-shadow: 0px 0px 20px rgba(114, 54, 0, 0.9);
+}
+
+h2{
+font-family: Arial;
+font-size: 14px;
+font-weight: lighter;
+letter-spacing: 2px;
+background-color:#ffffff;
+opacity: 0.4;
+text-shadow: 0px 0px 10px rgba(80,80,80,1);
+margin-left: 400px;
+margin-right: 400px;
+padding: 5px;
+}
+
+h3,h4{
+letter-spacing: 3px;
+font-weight: 100;
+text-align: center;
+}
+
+h3{
+font-family: Palatino Linotype;
+margin-bottom: -5px;
+background-color:#ffffff;
+opacity:0.4;
+padding: 7px;
+margin-bottom: -20px;
+margin-left:-25px;
+margin-right:-25px;
+}
+
+h4{
+font-family: Palatino Linotype;
+padding:5px;
+font-size: 20px;
+opacity: 0.6;
+background-color: #E6E6E6;
+text-shadow: 0px 0px 10px rgba(80,80,80,1);
+margin-left:-20px;
+margin-right:-20px;
+margin-top:10px;
+}
+
+h4.sendEmail{
+margin-left:-5px;
+margin-right:-5px;
+margin-top:6%;
+}
+
+h5 {
+font-family: Palatino Linotype;
+font-weight: lighter;
+color: grey;
+}
+
+#content{
+margin-left:5%;
+margin-right:5%;
+min-width:1180px;
+text-align: center;
+padding:10px;
+background-color: #ffffff;
+opacity: 0.6;
+}
+
+#content.content1{
+background:url(../images/white-bedroom.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content2{
+background:url(../images/brown-room.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content3{
+background:url(../images/panorama1.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content4{
+background:url(../images/master-bedroom.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content5{
+background:url(../images/panorama3.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content6{
+background:url(../images/tenant-room.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content7{
+background:url(../images/owner-room.jpg);
+height:600px;
+background-position: center;
+}
+
+#content.content8{
+background:url(../images/contact-room.jpg);
+height:600px;
+background-position: center;
+}
+
+body{
+background: url(../images/white-background-1.jpg);
+background-size: 1980px;
+background-repeat: no-repeat;
+}
+
+p,pre{
+font-family: Arial;
+letter-spacing: 0.5px;
+font-size:15px;
+line-height:150%;
+}
+
+input.buttons{
+border-radius:6px;
+background-color: #D8D8D8;
+padding: 5px;
+opacity: 0.8;
+}
+
+input.buttons:hover{
+background-color:white;
+}
+
+a.enterSite{
+font-size:50px;
+border: solid 2px;
+border-color:#D8D8D8;
+
+font-family: Palatino Linotype;
+letter-spacing: 3px;
+font-weight: lighter;
+text-align: center;
+background: white;
+border-radius: 10px;
+opacity: 0.9;
+padding: 30px;
+padding-left:50px;
+padding-right:50px;
+}
+
+a.preferences{
+color:white;
+font-size:14px;
+font-weight: lighter;
+background-color:grey;
+padding:5px;
+border-radius:10px;
+padding-left:20px;
+padding-right:20px;
+}
+
+a{
+text-decoration: none;
+color:black;
+}
+
+nav{
+background-color: #ffffff;
+opacity: 0.4;
+padding: 15px;
+margin-bottom: -25px;
+font-family: Arial;
+letter-spacing: 2px;
+font-weight:lighter;
+font-size: 13px;
+margin-left:-25px;
+margin-right:-25px;
+}
+
+a.nav{
+padding-top:15.5px;
+padding-bottom:15.5px;
+padding-left:45px;
+padding-right:45px;
+border-right:solid 1px silver;
+}
+
+a.nav:hover{
+padding-top:15.5px;
+padding-bottom:15.5px;
+background-color: #000000;
+opacity: 0.5;
+background-size:1980px;
+padding-left:45px;
+padding-right:45px;
+}
+
+a:hover{
+color:#BDBDBD;
+}
+
+a.homepage{
+text-decoration: none;
+color:black;
+}
+
+input.loginInput{
+border-radius: 10px;
+}
+
+input.loginButton{
+letter-spacing: 2px;
+font-weight: 100;
+text-align: center;
+font-family: Arial;
+background-color:#ffffff;
+opacity:0.7;
+border-radius:4px;
+padding: 2px;
+font-size:14px; 
+}
+
+a.register{
+font-size:12px;
+text-decoration:underline;
+}
+
+.form,.how,.about,.form2{
+font-family: Arial;
+padding:10px;
+background-color: #ffffff;
+opacity: 0.9;
+padding:20px;
+max-width:500px;
+margin:auto;
+line-height:1.0;
+margin-top: 15px;
+margin-bottom: -20px;
+}
+
+.details,.instructions{
+margin-top:-15px;
+font-size:10px;
+font-style:em;
+color:grey;
+padding:-10px;
+line-height:1.0;
+}
+
+.instructions{
+font-size:13px;
+}
+
+.form2{
+padding:5px;
+max-width:400px;
+}
+
+textarea{
+resize:none;
+}
+
+footer{
+margin-left: 5%;
+margin-right: 5%;
+min-width: 1160px;
+text-align: center;
+padding: 20px;
+background: url(../images/wood-floor.jpg);
+background-size:600px;
+opacity: 0.5;
+}
+
